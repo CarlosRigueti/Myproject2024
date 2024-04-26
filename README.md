@@ -109,3 +109,11 @@ The overview provides descriptive statistics for four numerical features related
   
 <img width="573" alt="Screenshot 2024-04-26 at 21 39 39" src="https://github.com/CarlosRigueti/Myproject2024/assets/159485788/7808df6a-4986-402a-b092-e4cd20e51ca4">
 
+***
+
+### Display
+***
+
+
+
+
