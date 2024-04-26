@@ -113,7 +113,18 @@ The overview provides descriptive statistics for four numerical features related
 
 ### Display
 ***
+<img width="565" alt="Screenshot 2024-04-26 at 22 23 16" src="https://github.com/CarlosRigueti/Myproject2024/assets/159485788/6bcf341a-7aea-47d6-be94-7069de827f65">
 
 
+* Overall, displaying information about dataset, including samples of categorical data and verifying the presence of specific columns, is crucial for ensuring data quality, facilitating data exploration, and gaining initial insights into the dataset's content. It forms the foundation for further analysis and interpretation of the data.
 
+
+| Categorical data |       |
+|------------------|-------|
+| Species          | Island|
+| Adelie           | Torgersen |
+| Adelie           | Torgersen |
+| Adelie           | Torgersen |
+| Adelie           | Torgersen |
+| Adelie           | Torgersen |
 
