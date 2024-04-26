@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv
 
 ### Libraries
 ***
-
+---
 #### Data frames.
 import pandas as pd
 
@@ -25,3 +25,15 @@ import matplotlib.pyplot as plt
 
 #### Numerical arrays and random numbers.
 import numpy as np
+
+***
+
+### Load Data
+***
+
+#### Load the penguins dataset
+penguins_df = pd.read_csv("https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv")
+
+#### Have a look.
+penguins_df
+
