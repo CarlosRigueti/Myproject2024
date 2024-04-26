@@ -14,14 +14,14 @@ https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv
 ### Libraries
 ***
 
-# Data frames.
+#### Data frames.
 import pandas as pd
 
-# Data visualization library.
+#### Data visualization library.
 import seaborn as sns
 
-# Plotting.
+#### Plotting.
 import matplotlib.pyplot as plt
 
-# Numerical arrays and random numbers.
+#### Numerical arrays and random numbers.
 import numpy as np
