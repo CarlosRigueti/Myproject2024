@@ -87,5 +87,25 @@ dtype: object
 * ### Summary.
 penguins_df.describe()
 
+The overview provides descriptive statistics for four numerical features related to penguins:
+
+#### Bill Length (mm):
+* *Count*: 342 penguins have measurements for bill length.
+* *Mean*: The average bill length is approximately 43.92 millimeters.
+* *Standard Deviation*: The variability in bill length is approximately 5.46 millimeters.
+* *Minimum*: The shortest bill length observed is 32.1 millimeters.
+* *25th Percentile*: 25% of the penguins have a bill length of 39.23 millimeters or less.
+* *Median (50th Percentile)*: 50% of the penguins have a bill length of 44.45 millimeters or less.
+* *75th Percentile*: 75% of the penguins have a bill length of 48.5 millimeters or less.
+* *Maximum*: The longest bill length observed is 59.6 millimeters.
+#### Bill Depth (mm):
+* Similar statistics to bill length, but for bill depth measurements.
+#### Flipper Length (mm):
+* Similar statistics to bill length, but for flipper length measurements.
+#### Body Mass (g):
+* Similar statistics to bill length, but for body mass measurements in grams.
+
+
+  
 <img width="573" alt="Screenshot 2024-04-26 at 21 39 39" src="https://github.com/CarlosRigueti/Myproject2024/assets/159485788/7808df6a-4986-402a-b092-e4cd20e51ca4">
 
