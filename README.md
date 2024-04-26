@@ -13,19 +13,7 @@ https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv
 
 ### Libraries
 ***
----
-#### Data frames.
-import pandas as pd
-
-#### Data visualization library.
-import seaborn as sns
-
-#### Plotting.
-import matplotlib.pyplot as plt
-
-#### Numerical arrays and random numbers.
-import numpy as np
-
+<img width="642" alt="Screenshot 2024-04-26 at 21 07 18" src="https://github.com/CarlosRigueti/Myproject2024/assets/159485788/8bb177a1-858e-4176-bb5b-1ce71763c33f">
 ***
 
 ### Load Data
