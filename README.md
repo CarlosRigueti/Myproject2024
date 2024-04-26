@@ -23,4 +23,5 @@ penguins_df = pd.read_csv("https://raw.githubusercontent.com/mwaskom/seaborn-dat
 
 #### Have a look.
 penguins_df
-
+***
+<img width="697" alt="Screenshot 2024-04-26 at 21 10 59" src="https://github.com/CarlosRigueti/Myproject2024/assets/159485788/09c07dfa-704a-490a-a078-f4cbae851883">
