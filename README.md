@@ -266,14 +266,19 @@ It helps in understanding the central tendency and dispersion of the data and fa
 
 ***Python Documentation:***
 * Website: [Python Official Documentation](https://docs.python.org/3/)
+  
 ***Pandas Documentation:***
 * Website: [Pandas Official Documentation](https://pandas.pydata.org/)
+  
 ***Seaborn Documentation:***
 * Website: [Seaborn Official Documentation](https://seaborn.pydata.org/)
+* 
 ***Matplotlib Documentation:***
 * Website: [Matplotlib Official Documentation](https://matplotlib.org/)
+* 
 ***NumPy Documentation:***
 * Website: [NumPy Official Documentation](https://numpy.org/doc/)
+  
 ***Data Science Textbooks:***
 * "Python for Data Analysis" by Wes McKinney: This book covers data analysis techniques using Python, with a focus on the Pandas library.
 * "Data Science from Scratch" by Joel Grus: This book provides an introduction to data science concepts and techniques using Python, including examples of working with data.
