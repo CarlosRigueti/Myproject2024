@@ -253,5 +253,9 @@ Analyzing body mass can help understand the energetic requirements, reproductive
 
 <img width="611" alt="Screenshot 2024-04-28 at 10 54 43" src="https://github.com/CarlosRigueti/Myproject2024/assets/159485788/ace52036-c8e5-4504-a6df-294db2b8e31d">
 
+
+
 This code provides a visual representation of the relationship between **flipper length** and **body mass** of *penguins*, along with the average values of each variable marked by horizontal and vertical lines, respectively. It helps in understanding the central tendency and dispersion of the data and facilitates the interpretation of the scatter plot.
+
+<img width="637" alt="Screenshot 2024-04-28 at 11 00 28" src="https://github.com/CarlosRigueti/Myproject2024/assets/159485788/9007148a-feb5-4afe-9f1a-80daef4d17f1">
 
