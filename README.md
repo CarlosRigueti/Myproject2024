@@ -210,10 +210,9 @@ These commands work together to select specific columns from the original DataFr
 
 ### Two Variables:
 ***
+The main purpose of these two variables, flipper_length and body_mass, in the context of the given code, is to analyze the relationship between two specific characteristics of penguins:
 
 <img width="775" alt="Screenshot 2024-04-28 at 09 29 04" src="https://github.com/CarlosRigueti/Myproject2024/assets/159485788/5fc2e449-ca64-49c2-a683-cebc125843e7">
-
-The main purpose of these two variables, flipper_length and body_mass, in the context of the given code, is to analyze the relationship between two specific characteristics of penguins:
 
 * ***flipper_length:***
 This variable represents the flipper lengths (in millimeters) of the penguins in the dataset.
@@ -231,9 +230,9 @@ Analyzing body mass can help understand the energetic requirements, reproductive
 
 ### Add a Best Fit Line:
 ***
-<img width="584" alt="Screenshot 2024-04-28 at 10 36 06" src="https://github.com/CarlosRigueti/Myproject2024/assets/159485788/a6874190-3bc9-4148-a7b5-b8651f274b49">
 
 *This code is a simple and effective way to visually explore the relationship between **flipper length** and **body** mass using a **scatter plot.***
+<img width="584" alt="Screenshot 2024-04-28 at 10 36 06" src="https://github.com/CarlosRigueti/Myproject2024/assets/159485788/a6874190-3bc9-4148-a7b5-b8651f274b49">
 
 **Data Preparation:**
 * These variables are typically extracted from a DataFrame penguins_df, where **'flipper_length_mm'** and **'body_mass_g'** are columns representing **flipper length** and **body mass**, respectively.
@@ -253,9 +252,34 @@ Analyzing body mass can help understand the energetic requirements, reproductive
 
 <img width="611" alt="Screenshot 2024-04-28 at 10 54 43" src="https://github.com/CarlosRigueti/Myproject2024/assets/159485788/ace52036-c8e5-4504-a6df-294db2b8e31d">
 
+This code provides a visual representation of the relationship between **flipper length** and **body mass** of *penguins*, along with the average values of each variable marked by horizontal and vertical lines, respectively. 
+
+<img width="522" alt="Screenshot 2024-04-28 at 11 02 16" src="https://github.com/CarlosRigueti/Myproject2024/assets/159485788/4001ddb7-16e8-4df1-a0af-9d6748189b52">
 
 
-This code provides a visual representation of the relationship between **flipper length** and **body mass** of *penguins*, along with the average values of each variable marked by horizontal and vertical lines, respectively. It helps in understanding the central tendency and dispersion of the data and facilitates the interpretation of the scatter plot.
+It helps in understanding the central tendency and dispersion of the data and facilitates the interpretation of the scatter plot.
 
 <img width="637" alt="Screenshot 2024-04-28 at 11 00 28" src="https://github.com/CarlosRigueti/Myproject2024/assets/159485788/9007148a-feb5-4afe-9f1a-80daef4d17f1">
 
+### References:
+***
+
+***Python Documentation:***
+* Website: [Python Official Documentation](https://docs.python.org/3/)
+***Pandas Documentation:***
+* Website: [Pandas Official Documentation](https://pandas.pydata.org/)
+***Seaborn Documentation:***
+* Website: [Seaborn Official Documentation](https://seaborn.pydata.org/)
+***Matplotlib Documentation:***
+* Website: [Matplotlib Official Documentation](https://matplotlib.org/)
+***NumPy Documentation:***
+* Website: [NumPy Official Documentation](https://numpy.org/doc/)
+***Data Science Textbooks:***
+* "Python for Data Analysis" by Wes McKinney: This book covers data analysis techniques using Python, with a focus on the Pandas library.
+* "Data Science from Scratch" by Joel Grus: This book provides an introduction to data science concepts and techniques using Python, including examples of working with data.
+Online Tutorials and Courses:
+* Websites like DataCamp, Coursera, and Udemy offer a wide range of courses and tutorials on data science topics, including Python programming, Pandas, Seaborn, Matplotlib, and NumPy.
+
+#### Student:
+* Carlos Rigueti
+### End.
