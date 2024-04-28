@@ -8,36 +8,38 @@ The Palmer Penguin dataset provides information about penguins observed in Palme
 
 ![](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png)
 
-### Penguins Dataset
+### Penguins Dataset:
 ***
 
 https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv
 ***
 
-### Libraries
+### Libraries:
 
-* Pandas:
+* **Pandas:**
 Pandas is a powerful data manipulation and analysis library for Python. It provides data structures and functions to efficiently manipulate and analyze structured data.
 
-* Seaborn:
+* **Seaborn:**
 Seaborn is a statistical data visualization library built on top of Matplotlib. It provides a high-level interface for creating informative and visually appealing statistical graphics.
 
-* Matplotlib: 
+* **Matplotlib:** 
 Matplotlib is a comprehensive plotting library for Python. It provides a wide range of plotting functions to create static, interactive, and publication-quality visualizations.
 
-* NumPy:
+* **NumPy:**
 NumPy is a fundamental package for scientific computing with Python. It provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays efficiently.
 ***
 <img width="642" alt="Screenshot 2024-04-26 at 21 07 18" src="https://github.com/CarlosRigueti/Myproject2024/assets/159485788/8bb177a1-858e-4176-bb5b-1ce71763c33f">
 
-### Load Data
+### Load Data:
 ***
 
 * #### Load the penguins dataset
-penguins_df = pd.read_csv("https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv")
+  
+**penguins_df = pd.read_csv:**("https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv")
 
 * #### Have a look.
-penguins_df
+  
+**penguins_df:**
 
 * Species: The species of penguins observed, such as Adelie, Chinstrap, or Gentoo.
 * Island: The island where the penguins were observed, such as Torgersen, Biscoe, or Dream.
@@ -111,7 +113,7 @@ The overview provides descriptive statistics for four numerical features related
 
 ***
 
-### Display
+### Display:
 ***
 <img width="565" alt="Screenshot 2024-04-26 at 22 23 16" src="https://github.com/CarlosRigueti/Myproject2024/assets/159485788/6bcf341a-7aea-47d6-be94-7069de827f65">
 
@@ -130,24 +132,21 @@ The overview provides descriptive statistics for four numerical features related
 
 ***
 
-<style>
-    table {
-        border-collapse: collapse;
-        width: 100%;
-    }
-    th, td {
-        border: 1px solid #dddddd;
-        text-align: left;
-        padding: 8px;
-    }
-    th {
-        background-color: #f2f2f2;
-    }
-</style>
-</head>
-<body>
+<img width="993" alt="Screenshot 2024-04-28 at 08 55 48" src="https://github.com/CarlosRigueti/Myproject2024/assets/159485788/84d32560-578d-4119-8835-f371149b8a75">
 
-<h2>Data Information</h2>
+
+These commands work together to select specific columns from the original DataFrame, assign them to a new variable for easier manipulation, and then print the first few rows of the selected columns to provide an overview of the data. They are commonly used in exploratory data analysis to understand the dataset's content and structure.
+
+#### *selected_columns = penguins_df*:
+* It creates a reference to the original DataFrame rather than making a copy. Therefore, any changes made to selected_columns will affect the original penguins_df DataFrame.
+
+#### *print(selected_columns.head())*:
+
+* This command prints the first few rows of the DataFrame selected_columns
+
+* By using print(), the output of selected_columns.head() is displayed in the console or notebook cell output.
+
+
 
 <table>
   <tr>
@@ -208,3 +207,16 @@ The overview provides descriptive statistics for four numerical features related
 
 </body>
 </html>
+
+### Two Variables:
+
+The main purpose of these two variables, flipper_length and body_mass, in the context of the given code, is to analyze the relationship between two specific characteristics of penguins:
+
+* ***flipper_length:***
+This variable represents the flipper lengths (in millimeters) of the penguins in the dataset.
+The flipper length is a physical characteristic of penguins that can vary among different species and individuals.
+Analyzing flipper length can provide insights into the morphological differences or adaptations among penguin species, as well as potential relationships with other variables such as body mass or habitat.
+* ***body_mass:***
+This variable represents the body masses (in grams) of the penguins in the dataset.
+Body mass is another important physical characteristic of penguins, which is closely related to their overall health, fitness, and ecological niche.
+Analyzing body mass can help understand the energetic requirements, reproductive strategies, and ecological roles of different penguin species.
