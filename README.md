@@ -275,7 +275,7 @@ It helps in understanding the central tendency and dispersion of the data and fa
 * 
 ***Matplotlib Documentation:***
 * Website: [Matplotlib Official Documentation](https://matplotlib.org/)
-* 
+  
 ***NumPy Documentation:***
 * Website: [NumPy Official Documentation](https://numpy.org/doc/)
   
@@ -287,4 +287,5 @@ Online Tutorials and Courses:
 
 #### Student:
 * Carlos Rigueti
+* Atlantic Technological University - 2024.
 ### End.
