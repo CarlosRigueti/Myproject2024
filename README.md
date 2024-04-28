@@ -128,3 +128,83 @@ The overview provides descriptive statistics for four numerical features related
 | Adelie           | Torgersen |
 | Adelie           | Torgersen |
 
+***
+
+<style>
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+    th, td {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+    th {
+        background-color: #f2f2f2;
+    }
+</style>
+</head>
+<body>
+
+<h2>Data Information</h2>
+
+<table>
+  <tr>
+    <th>Species</th>
+    <th>Island</th>
+    <th>Bill Length (mm)</th>
+    <th>Bill Depth (mm)</th>
+    <th>Flipper Length (mm)</th>
+    <th>Body Mass (g)</th>
+    <th>Sex</th>
+  </tr>
+  <tr>
+    <td>Adelie</td>
+    <td>Torgersen</td>
+    <td>39.1</td>
+    <td>18.7</td>
+    <td>181.0</td>
+    <td>3750.0</td>
+    <td>MALE</td>
+  </tr>
+  <tr>
+    <td>Adelie</td>
+    <td>Torgersen</td>
+    <td>39.5</td>
+    <td>17.4</td>
+    <td>186.0</td>
+    <td>3800.0</td>
+    <td>FEMALE</td>
+  </tr>
+  <tr>
+    <td>Adelie</td>
+    <td>Torgersen</td>
+    <td>40.3</td>
+    <td>18.0</td>
+    <td>195.0</td>
+    <td>3250.0</td>
+    <td>FEMALE</td>
+  </tr>
+  <tr>
+    <td>Adelie</td>
+    <td>Torgersen</td>
+    <td>NaN</td>
+    <td>NaN</td>
+    <td>NaN</td>
+    <td>NaN</td>
+    <td>NaN</td>
+  </tr>
+  <tr>
+    <td>Adelie</td>
+    <td>Torgersen</td>
+    <td>36.7</td>
+    <td>19.3</td>
+    <td>193.0</td>
+    <td>3450.0</td>
+    <td>FEMALE</td>
+  </tr>
+</table>
+
+</body>
+</html>
