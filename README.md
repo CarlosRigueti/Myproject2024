@@ -209,6 +209,9 @@ These commands work together to select specific columns from the original DataFr
 </html>
 
 ### Two Variables:
+***
+
+<img width="775" alt="Screenshot 2024-04-28 at 09 29 04" src="https://github.com/CarlosRigueti/Myproject2024/assets/159485788/5fc2e449-ca64-49c2-a683-cebc125843e7">
 
 The main purpose of these two variables, flipper_length and body_mass, in the context of the given code, is to analyze the relationship between two specific characteristics of penguins:
 
@@ -220,3 +223,13 @@ Analyzing flipper length can provide insights into the morphological differences
 This variable represents the body masses (in grams) of the penguins in the dataset.
 Body mass is another important physical characteristic of penguins, which is closely related to their overall health, fitness, and ecological niche.
 Analyzing body mass can help understand the energetic requirements, reproductive strategies, and ecological roles of different penguin species.
+
+
+*The correlation coefficient between **flipper_length** and **body_mass**, the code aims to quantify the strength and direction of the linear relationship between these two variables.* 
+
+***
+
+### Add a Best Fit Line:
+***
+
+
