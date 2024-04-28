@@ -231,5 +231,23 @@ Analyzing body mass can help understand the energetic requirements, reproductive
 
 ### Add a Best Fit Line:
 ***
+<img width="584" alt="Screenshot 2024-04-28 at 10 36 06" src="https://github.com/CarlosRigueti/Myproject2024/assets/159485788/a6874190-3bc9-4148-a7b5-b8651f274b49">
 
+*This code is a simple and effective way to visually explore the relationship between **flipper length** and **body** mass using a **scatter plot.***
+
+**Data Preparation:**
+* These variables are typically extracted from a DataFrame penguins_df, where **'flipper_length_mm'** and **'body_mass_g'** are columns representing **flipper length** and **body mass**, respectively.
+
+**Scatter Plot Creation:**
+* The scatter plot is created using **Matplotlib's scatter()** function.
+
+**Labels and Title:**
+
+* X-axis label is set to *'Flipper Length (mm)'* using **xlabel()** function.
+* Y-axis label is set to 'Body Mass (g)' using **ylabel()** function.
+* The title of the plot is set to 'Relationship between *Flipper Length* and *Body Mass'* using **title()** function.
+
+**Display the Plot:**
+
+* The **show()** function displays the plot on the screen.
 
