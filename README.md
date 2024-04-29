@@ -236,6 +236,9 @@ A ***bar chart comparison*** is a type of data visualization that allows you to 
 
 * Defining a custom color palette involves specifying a set of colors that you want to use for visualizing data in plots or charts.
 
+<img width="592" alt="Screenshot 2024-04-29 at 21 05 34" src="https://github.com/CarlosRigueti/Myproject2024/assets/159485788/74068565-d961-419b-b312-7b92d07868c6">
+
+* Bar chart comparisons are a versatile and effective way to visualize categorical data and compare values across different groups or categories.
 ### Add a Best Fit Line:
 ***
 
