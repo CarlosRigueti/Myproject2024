@@ -244,6 +244,9 @@ A ***bar chart comparison*** is a type of data visualization that allows you to 
 
 * A bar chart comparison of penguins by island and species provides a clear and concise way to visualize the distribution and composition of penguin populations across different habitats, facilitating data-driven insights and comparisons.
 
+<img width="594" alt="Screenshot 2024-04-29 at 21 14 17" src="https://github.com/CarlosRigueti/Myproject2024/assets/159485788/5708beea-0242-43c3-8940-d32d6756ffb5">
+
+
 
 ### Add a Best Fit Line:
 ***
