@@ -234,6 +234,7 @@ Analyzing body mass can help understand the energetic requirements, reproductive
 A ***bar chart comparison*** is a type of data visualization that allows you to compare the values of different categories by representing them as bars.
 
 
+* Defining a custom color palette involves specifying a set of colors that you want to use for visualizing data in plots or charts.
 
 ### Add a Best Fit Line:
 ***
