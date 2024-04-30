@@ -24,7 +24,7 @@ More information about the dataset is available in [its official documentation](
 ### Getting Started:
 
 ***
-I used [openincolab](https://openincolab.com/) to generate the following clickable link. It opens the penguins.ipynb Jupyter Notebook in [Google Colab](https://colab.research.google.com/github/CarlosRigueti/Myproject2024/blob/main/penguins.ipynb).
+I used [openincolab](https://openincolab.com/) to generate the following clickable link. It opens the penguins.ipynb Jupyter Notebook in [Google Colab](https://colab.research.google.com/github/CarlosRigueti/Myproject2024/blob/main/penguins.ipynb). 
 ***
 
 ### About This Project: 
