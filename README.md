@@ -1,17 +1,36 @@
-# Myproject2024
+# Higher Diploma in Science in Computing - Data Analytics
 
-### Palmer Penguins
-***
+
+## Principles of Data Analytics - Project Palmer Penguins
+
 #### Overview: 
 
-The Palmer Penguin dataset provides information about penguins observed in Palmer Station, Antarctica. This dataset includes various features related to the penguins' physical characteristics and habitats. Here's an overview of the dataset:
+The [Palmer penguins dataset](https://allisonhorst.github.io/palmerpenguins/) by Allison Horst, Alison Hill, and Kristen Gorman is a dataset for data exploration & visualization, as an alternative to the Iris dataset.
+
+The dataset contains data for 344 penguins. There are 3 different species of penguins in this dataset, collected from 3 islands in the Palmer Archipelago, Antarctica.
+
+Data were collected and made available by [Dr. Kristen Gorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php) and the Palmer Station, Antarctica LTER, a member of the [Long Term Ecological Research Network](https://lternet.edu/).
+
+Data are available by [CC-0](https://creativecommons.org/public-domain/cc0/) license in accordance with the [Palmer Station LTER Data Policy]([https://lternet.edu/data-access-policy/](https://pallter.marine.rutgers.edu/data/#:~:text=Data%20Usage%20Policy&text=The%20Data%20User%20should%20realize,about%20methodology%20or%20results%20occur.)) and the [LTER Data Access Policy for Type I data](https://lternet.edu/data-access-policy/).
+
+More information about the dataset is available in [its official documentation](https://allisonhorst.github.io/palmerpenguins/).
+
 
 ![](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png)
 
-### Penguins Dataset:
-***
+### About This Project: 
 
-https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv
+The project has is about "palmer penguins" [dataset](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv) that provides information about penguins observed at Palmer Station, Antarctica. It includes various attributes related to the penguins' physical characteristics, such as **bill length**, **flipper length**, **body mass**, and species, as well as environmental factors like the island where they were observed.
+
+The dataset may have been used in various scientific publications related to penguin ecology, population studies, and climate change research. [UCI Machine Learning Machine](https://archive.ics.uci.edu/dataset/690/palmer+penguins-3)
+
+The culmen is the upper ridge of a bird’s bill. In the simplified penguins data, culmen length and depth are renamed as variables bill_length_mm and bill_depth_mm to be more intuitive.
+
+For this penguin data, the culmen (bill) length and depth are measured as shown below (thanks Kristen Gorman for clarifying!
+
+![](https://allisonhorst.github.io/palmerpenguins/reference/figures/culmen_depth.png)
+
+
 ***
 ### Libraries:
 
@@ -27,7 +46,6 @@ Matplotlib is a comprehensive plotting library for Python. It provides a wide ra
 * **NumPy:**
 NumPy is a fundamental package for scientific computing with Python. It provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays efficiently.
 ***
-<img width="642" alt="Screenshot 2024-04-26 at 21 07 18" src="https://github.com/CarlosRigueti/Myproject2024/assets/159485788/ad2ce622-267d-4e74-84d6-64c286568498">
 
 ### Load Data:
 ***
